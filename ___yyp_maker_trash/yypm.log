@@ -1,0 +1,483 @@
+You are using YYP Maker v1.1.5, released in 14-08-2022
+
+
+
+[26-08-2024 12:52:06] Initialized GameMaker Project: Arkanoid.yyp
+[26-08-2024 12:52:06] Current parent directory: D:/PROJETOSGameMaker2/Arkanoid/animcurves
+[26-08-2024 12:52:06] Current parent directory: D:/PROJETOSGameMaker2/Arkanoid/extensions
+[26-08-2024 12:52:06] Current parent directory: D:/PROJETOSGameMaker2/Arkanoid/fonts
+[26-08-2024 12:52:06] Current parent directory: D:/PROJETOSGameMaker2/Arkanoid/notes
+[26-08-2024 12:52:06] Current parent directory: D:/PROJETOSGameMaker2/Arkanoid/objects
+[26-08-2024 12:52:06] Checking obj_tiro
+[26-08-2024 12:52:06] Directory: D:/PROJETOSGameMaker2/Arkanoid/objects/obj_tiro
+[26-08-2024 12:52:06] Checking obj_taco
+[26-08-2024 12:52:06] Directory: D:/PROJETOSGameMaker2/Arkanoid/objects/obj_taco
+[26-08-2024 12:52:06] Checking obj_powerup
+[26-08-2024 12:52:06] Directory: D:/PROJETOSGameMaker2/Arkanoid/objects/obj_powerup
+[26-08-2024 12:52:06] Checking obj_parede
+[26-08-2024 12:52:06] Directory: D:/PROJETOSGameMaker2/Arkanoid/objects/obj_parede
+[26-08-2024 12:52:06] Checking obj_control
+[26-08-2024 12:52:06] Directory: D:/PROJETOSGameMaker2/Arkanoid/objects/obj_control
+[26-08-2024 12:52:06] Checking obj_buraco
+[26-08-2024 12:52:06] Directory: D:/PROJETOSGameMaker2/Arkanoid/objects/obj_buraco
+[26-08-2024 12:52:06] Checking obj_bola
+[26-08-2024 12:52:06] Directory: D:/PROJETOSGameMaker2/Arkanoid/objects/obj_bola
+[26-08-2024 12:52:06] Checking obj_blocovermelho
+[26-08-2024 12:52:06] Directory: D:/PROJETOSGameMaker2/Arkanoid/objects/obj_blocovermelho
+[26-08-2024 12:52:06] Checking obj_blocoverde
+[26-08-2024 12:52:06] Directory: D:/PROJETOSGameMaker2/Arkanoid/objects/obj_blocoverde
+[26-08-2024 12:52:06] Checking obj_blocoroxo
+[26-08-2024 12:52:06] Directory: D:/PROJETOSGameMaker2/Arkanoid/objects/obj_blocoroxo
+[26-08-2024 12:52:06] Checking obj_blococinza
+[26-08-2024 12:52:06] Directory: D:/PROJETOSGameMaker2/Arkanoid/objects/obj_blococinza
+[26-08-2024 12:52:06] Checking obj_blocoazul
+[26-08-2024 12:52:06] Directory: D:/PROJETOSGameMaker2/Arkanoid/objects/obj_blocoazul
+[26-08-2024 12:52:06] Checking obj_blocoamarelo
+[26-08-2024 12:52:06] Directory: D:/PROJETOSGameMaker2/Arkanoid/objects/obj_blocoamarelo
+[26-08-2024 12:52:06] Current parent directory: D:/PROJETOSGameMaker2/Arkanoid/objects/obj_blocoamarelo
+[26-08-2024 12:52:06] Checking obj_blocoamarelo.yy
+[26-08-2024 12:52:06] Parsing D:/PROJETOSGameMaker2/Arkanoid/objects/obj_blocoamarelo/obj_blocoamarelo.yy
+[26-08-2024 12:52:06] Reading D:/PROJETOSGameMaker2/Arkanoid/objects/obj_blocoamarelo/obj_blocoamarelo.yy
+[26-08-2024 12:52:06] Par: "folders/Objects" at dir: "D:/PROJETOSGameMaker2/Arkanoid/objects/obj_blocoamarelo/obj_blocoamarelo.yy"
+[26-08-2024 12:52:06] Found Object: obj_blocoamarelo
+[26-08-2024 12:52:06] Current parent directory: D:/PROJETOSGameMaker2/Arkanoid/objects/obj_blocoazul
+[26-08-2024 12:52:06] Checking obj_blocoazul.yy
+[26-08-2024 12:52:06] Parsing D:/PROJETOSGameMaker2/Arkanoid/objects/obj_blocoazul/obj_blocoazul.yy
+[26-08-2024 12:52:06] Reading D:/PROJETOSGameMaker2/Arkanoid/objects/obj_blocoazul/obj_blocoazul.yy
+[26-08-2024 12:52:06] Par: "folders/Objects" at dir: "D:/PROJETOSGameMaker2/Arkanoid/objects/obj_blocoazul/obj_blocoazul.yy"
+[26-08-2024 12:52:06] Found Object: obj_blocoazul
+[26-08-2024 12:52:06] Current parent directory: D:/PROJETOSGameMaker2/Arkanoid/objects/obj_blococinza
+[26-08-2024 12:52:06] Checking obj_blococinza.yy
+[26-08-2024 12:52:06] Parsing D:/PROJETOSGameMaker2/Arkanoid/objects/obj_blococinza/obj_blococinza.yy
+[26-08-2024 12:52:06] Reading D:/PROJETOSGameMaker2/Arkanoid/objects/obj_blococinza/obj_blococinza.yy
+[26-08-2024 12:52:06] Par: "folders/Objects" at dir: "D:/PROJETOSGameMaker2/Arkanoid/objects/obj_blococinza/obj_blococinza.yy"
+[26-08-2024 12:52:06] Found Object: obj_blococinza
+[26-08-2024 12:52:06] Current parent directory: D:/PROJETOSGameMaker2/Arkanoid/objects/obj_blocoroxo
+[26-08-2024 12:52:06] Checking obj_blocoroxo.yy
+[26-08-2024 12:52:06] Parsing D:/PROJETOSGameMaker2/Arkanoid/objects/obj_blocoroxo/obj_blocoroxo.yy
+[26-08-2024 12:52:06] Reading D:/PROJETOSGameMaker2/Arkanoid/objects/obj_blocoroxo/obj_blocoroxo.yy
+[26-08-2024 12:52:06] Par: "folders/Objects" at dir: "D:/PROJETOSGameMaker2/Arkanoid/objects/obj_blocoroxo/obj_blocoroxo.yy"
+[26-08-2024 12:52:06] Found Object: obj_blocoroxo
+[26-08-2024 12:52:06] Current parent directory: D:/PROJETOSGameMaker2/Arkanoid/objects/obj_blocoverde
+[26-08-2024 12:52:06] Checking obj_blocoverde.yy
+[26-08-2024 12:52:06] Parsing D:/PROJETOSGameMaker2/Arkanoid/objects/obj_blocoverde/obj_blocoverde.yy
+[26-08-2024 12:52:06] Reading D:/PROJETOSGameMaker2/Arkanoid/objects/obj_blocoverde/obj_blocoverde.yy
+[26-08-2024 12:52:06] Par: "folders/Objects" at dir: "D:/PROJETOSGameMaker2/Arkanoid/objects/obj_blocoverde/obj_blocoverde.yy"
+[26-08-2024 12:52:06] Found Object: obj_blocoverde
+[26-08-2024 12:52:06] Current parent directory: D:/PROJETOSGameMaker2/Arkanoid/objects/obj_blocovermelho
+[26-08-2024 12:52:06] Checking obj_blocovermelho.yy
+[26-08-2024 12:52:06] Parsing D:/PROJETOSGameMaker2/Arkanoid/objects/obj_blocovermelho/obj_blocovermelho.yy
+[26-08-2024 12:52:06] Reading D:/PROJETOSGameMaker2/Arkanoid/objects/obj_blocovermelho/obj_blocovermelho.yy
+[26-08-2024 12:52:06] Par: "folders/Objects" at dir: "D:/PROJETOSGameMaker2/Arkanoid/objects/obj_blocovermelho/obj_blocovermelho.yy"
+[26-08-2024 12:52:06] Found Object: obj_blocovermelho
+[26-08-2024 12:52:06] Current parent directory: D:/PROJETOSGameMaker2/Arkanoid/objects/obj_bola
+[26-08-2024 12:52:06] Checking Step_0.gml
+[26-08-2024 12:52:06] Checking obj_bola.yy
+[26-08-2024 12:52:06] Parsing D:/PROJETOSGameMaker2/Arkanoid/objects/obj_bola/obj_bola.yy
+[26-08-2024 12:52:06] Reading D:/PROJETOSGameMaker2/Arkanoid/objects/obj_bola/obj_bola.yy
+[26-08-2024 12:52:06] Par: "folders/Objects" at dir: "D:/PROJETOSGameMaker2/Arkanoid/objects/obj_bola/obj_bola.yy"
+[26-08-2024 12:52:06] Found Object: obj_bola
+[26-08-2024 12:52:06] Checking KeyPress_32.gml
+[26-08-2024 12:52:06] Checking Create_0.gml
+[26-08-2024 12:52:06] Checking Collision_obj_taco.gml
+[26-08-2024 12:52:06] Checking Collision_obj_parede.gml
+[26-08-2024 12:52:06] Checking Collision_obj_buraco.gml
+[26-08-2024 12:52:06] Checking Collision_obj_blocovermelho.gml
+[26-08-2024 12:52:06] Checking Collision_obj_blocoverde.gml
+[26-08-2024 12:52:06] Checking Collision_obj_blocoroxo.gml
+[26-08-2024 12:52:06] Checking Collision_obj_blococinza.gml
+[26-08-2024 12:52:06] Checking Collision_obj_blocoazul.gml
+[26-08-2024 12:52:06] Checking Collision_obj_blocoamarelo.gml
+[26-08-2024 12:52:06] Current parent directory: D:/PROJETOSGameMaker2/Arkanoid/objects/obj_buraco
+[26-08-2024 12:52:06] Checking obj_buraco.yy
+[26-08-2024 12:52:06] Parsing D:/PROJETOSGameMaker2/Arkanoid/objects/obj_buraco/obj_buraco.yy
+[26-08-2024 12:52:06] Reading D:/PROJETOSGameMaker2/Arkanoid/objects/obj_buraco/obj_buraco.yy
+[26-08-2024 12:52:06] Par: "folders/Objects" at dir: "D:/PROJETOSGameMaker2/Arkanoid/objects/obj_buraco/obj_buraco.yy"
+[26-08-2024 12:52:06] Found Object: obj_buraco
+[26-08-2024 12:52:06] Current parent directory: D:/PROJETOSGameMaker2/Arkanoid/objects/obj_control
+[26-08-2024 12:52:06] Checking Step_0.gml
+[26-08-2024 12:52:06] Checking Other_2.gml
+[26-08-2024 12:52:06] Checking obj_control.yy
+[26-08-2024 12:52:06] Parsing D:/PROJETOSGameMaker2/Arkanoid/objects/obj_control/obj_control.yy
+[26-08-2024 12:52:06] Reading D:/PROJETOSGameMaker2/Arkanoid/objects/obj_control/obj_control.yy
+[26-08-2024 12:52:06] Par: "folders/Objects" at dir: "D:/PROJETOSGameMaker2/Arkanoid/objects/obj_control/obj_control.yy"
+[26-08-2024 12:52:06] Found Object: obj_control
+[26-08-2024 12:52:06] Checking Draw_64.gml
+[26-08-2024 12:52:06] Current parent directory: D:/PROJETOSGameMaker2/Arkanoid/objects/obj_parede
+[26-08-2024 12:52:06] Checking obj_parede.yy
+[26-08-2024 12:52:06] Parsing D:/PROJETOSGameMaker2/Arkanoid/objects/obj_parede/obj_parede.yy
+[26-08-2024 12:52:06] Reading D:/PROJETOSGameMaker2/Arkanoid/objects/obj_parede/obj_parede.yy
+[26-08-2024 12:52:06] Par: "folders/Objects" at dir: "D:/PROJETOSGameMaker2/Arkanoid/objects/obj_parede/obj_parede.yy"
+[26-08-2024 12:52:06] Found Object: obj_parede
+[26-08-2024 12:52:06] Current parent directory: D:/PROJETOSGameMaker2/Arkanoid/objects/obj_powerup
+[26-08-2024 12:52:06] Checking Other_0.gml
+[26-08-2024 12:52:06] Checking obj_powerup.yy
+[26-08-2024 12:52:06] Parsing D:/PROJETOSGameMaker2/Arkanoid/objects/obj_powerup/obj_powerup.yy
+[26-08-2024 12:52:06] Reading D:/PROJETOSGameMaker2/Arkanoid/objects/obj_powerup/obj_powerup.yy
+[26-08-2024 12:52:06] Par: "folders/Objects" at dir: "D:/PROJETOSGameMaker2/Arkanoid/objects/obj_powerup/obj_powerup.yy"
+[26-08-2024 12:52:06] Found Object: obj_powerup
+[26-08-2024 12:52:06] Checking Create_0.gml
+[26-08-2024 12:52:06] Current parent directory: D:/PROJETOSGameMaker2/Arkanoid/objects/obj_taco
+[26-08-2024 12:52:06] Checking Step_0.gml
+[26-08-2024 12:52:06] Checking obj_taco.yy
+[26-08-2024 12:52:06] Parsing D:/PROJETOSGameMaker2/Arkanoid/objects/obj_taco/obj_taco.yy
+[26-08-2024 12:52:06] Reading D:/PROJETOSGameMaker2/Arkanoid/objects/obj_taco/obj_taco.yy
+[26-08-2024 12:52:06] Par: "folders/Objects" at dir: "D:/PROJETOSGameMaker2/Arkanoid/objects/obj_taco/obj_taco.yy"
+[26-08-2024 12:52:06] Found Object: obj_taco
+[26-08-2024 12:52:06] Checking Keyboard_39.gml
+[26-08-2024 12:52:06] Checking Keyboard_37.gml
+[26-08-2024 12:52:06] Checking Create_0.gml
+[26-08-2024 12:52:06] Checking Collision_obj_powerup.gml
+[26-08-2024 12:52:06] Checking Alarm_1.gml
+[26-08-2024 12:52:06] Checking Alarm_0.gml
+[26-08-2024 12:52:06] Current parent directory: D:/PROJETOSGameMaker2/Arkanoid/objects/obj_tiro
+[26-08-2024 12:52:06] Checking Other_0.gml
+[26-08-2024 12:52:06] Checking obj_tiro.yy
+[26-08-2024 12:52:06] Parsing D:/PROJETOSGameMaker2/Arkanoid/objects/obj_tiro/obj_tiro.yy
+[26-08-2024 12:52:06] Reading D:/PROJETOSGameMaker2/Arkanoid/objects/obj_tiro/obj_tiro.yy
+[26-08-2024 12:52:06] Par: "folders/Objects" at dir: "D:/PROJETOSGameMaker2/Arkanoid/objects/obj_tiro/obj_tiro.yy"
+[26-08-2024 12:52:06] Found Object: obj_tiro
+[26-08-2024 12:52:06] Checking Create_0.gml
+[26-08-2024 12:52:06] Checking Collision_obj_blocovermelho.gml
+[26-08-2024 12:52:06] Checking Collision_obj_blocoverde.gml
+[26-08-2024 12:52:06] Checking Collision_obj_blocoroxo.gml
+[26-08-2024 12:52:06] Checking Collision_obj_blococinza.gml
+[26-08-2024 12:52:06] Checking Collision_obj_blocoazul.gml
+[26-08-2024 12:52:06] Checking Collision_obj_blocoamarelo.gml
+[26-08-2024 12:52:06] Current parent directory: D:/PROJETOSGameMaker2/Arkanoid/options
+[26-08-2024 12:52:06] Checking windows
+[26-08-2024 12:52:06] Directory: D:/PROJETOSGameMaker2/Arkanoid/options/windows
+[26-08-2024 12:52:06] Checking operagx
+[26-08-2024 12:52:06] Directory: D:/PROJETOSGameMaker2/Arkanoid/options/operagx
+[26-08-2024 12:52:06] Checking main
+[26-08-2024 12:52:06] Directory: D:/PROJETOSGameMaker2/Arkanoid/options/main
+[26-08-2024 12:52:06] Current parent directory: D:/PROJETOSGameMaker2/Arkanoid/options/main
+[26-08-2024 12:52:06] Checking options_main.yy
+[26-08-2024 12:52:06] Parsing D:/PROJETOSGameMaker2/Arkanoid/options/main/options_main.yy
+[26-08-2024 12:52:06] Reading D:/PROJETOSGameMaker2/Arkanoid/options/main/options_main.yy
+[26-08-2024 12:52:06] Current parent directory: D:/PROJETOSGameMaker2/Arkanoid/options/operagx
+[26-08-2024 12:52:06] Checking options_operagx.yy
+[26-08-2024 12:52:06] Parsing D:/PROJETOSGameMaker2/Arkanoid/options/operagx/options_operagx.yy
+[26-08-2024 12:52:06] Reading D:/PROJETOSGameMaker2/Arkanoid/options/operagx/options_operagx.yy
+[26-08-2024 12:52:06] Current parent directory: D:/PROJETOSGameMaker2/Arkanoid/options/windows
+[26-08-2024 12:52:06] Checking options_windows.yy
+[26-08-2024 12:52:06] Parsing D:/PROJETOSGameMaker2/Arkanoid/options/windows/options_windows.yy
+[26-08-2024 12:52:06] Reading D:/PROJETOSGameMaker2/Arkanoid/options/windows/options_windows.yy
+[26-08-2024 12:52:06] Current parent directory: D:/PROJETOSGameMaker2/Arkanoid/paths
+[26-08-2024 12:52:06] Current parent directory: D:/PROJETOSGameMaker2/Arkanoid/rooms
+[26-08-2024 12:52:06] Checking Room2
+[26-08-2024 12:52:06] Directory: D:/PROJETOSGameMaker2/Arkanoid/rooms/Room2
+[26-08-2024 12:52:06] Checking Room1
+[26-08-2024 12:52:06] Directory: D:/PROJETOSGameMaker2/Arkanoid/rooms/Room1
+[26-08-2024 12:52:06] Current parent directory: D:/PROJETOSGameMaker2/Arkanoid/rooms/Room1
+[26-08-2024 12:52:06] Checking Room1.yy
+[26-08-2024 12:52:06] Parsing D:/PROJETOSGameMaker2/Arkanoid/rooms/Room1/Room1.yy
+[26-08-2024 12:52:06] Reading D:/PROJETOSGameMaker2/Arkanoid/rooms/Room1/Room1.yy
+[26-08-2024 12:52:06] Par: "folders/Rooms" at dir: "D:/PROJETOSGameMaker2/Arkanoid/rooms/Room1/Room1.yy"
+[26-08-2024 12:52:06] Found Room: Room1
+[26-08-2024 12:52:06] Current parent directory: D:/PROJETOSGameMaker2/Arkanoid/rooms/Room2
+[26-08-2024 12:52:06] Checking Room2.yy
+[26-08-2024 12:52:06] Parsing D:/PROJETOSGameMaker2/Arkanoid/rooms/Room2/Room2.yy
+[26-08-2024 12:52:06] Reading D:/PROJETOSGameMaker2/Arkanoid/rooms/Room2/Room2.yy
+[26-08-2024 12:52:06] Par: "folders/Rooms" at dir: "D:/PROJETOSGameMaker2/Arkanoid/rooms/Room2/Room2.yy"
+[26-08-2024 12:52:06] Found Room: Room2
+[26-08-2024 12:52:06] Current parent directory: D:/PROJETOSGameMaker2/Arkanoid/scripts
+[26-08-2024 12:52:06] Checking scr_colisaoblocos
+[26-08-2024 12:52:06] Directory: D:/PROJETOSGameMaker2/Arkanoid/scripts/scr_colisaoblocos
+[26-08-2024 12:52:06] Current parent directory: D:/PROJETOSGameMaker2/Arkanoid/scripts/scr_colisaoblocos
+[26-08-2024 12:52:06] Checking scr_colisaoblocos.yy
+[26-08-2024 12:52:06] Parsing D:/PROJETOSGameMaker2/Arkanoid/scripts/scr_colisaoblocos/scr_colisaoblocos.yy
+[26-08-2024 12:52:06] Reading D:/PROJETOSGameMaker2/Arkanoid/scripts/scr_colisaoblocos/scr_colisaoblocos.yy
+[26-08-2024 12:52:06] Par: "folders/Scripts" at dir: "D:/PROJETOSGameMaker2/Arkanoid/scripts/scr_colisaoblocos/scr_colisaoblocos.yy"
+[26-08-2024 12:52:06] Found Script: scr_colisaoblocos
+[26-08-2024 12:52:06] Checking scr_colisaoblocos.gml
+[26-08-2024 12:52:06] Current parent directory: D:/PROJETOSGameMaker2/Arkanoid/sequences
+[26-08-2024 12:52:06] Current parent directory: D:/PROJETOSGameMaker2/Arkanoid/shaders
+[26-08-2024 12:52:06] Current parent directory: D:/PROJETOSGameMaker2/Arkanoid/sounds
+[26-08-2024 12:52:06] Checking snd_tiro
+[26-08-2024 12:52:06] Directory: D:/PROJETOSGameMaker2/Arkanoid/sounds/snd_tiro
+[26-08-2024 12:52:06] Checking snd_powerup2
+[26-08-2024 12:52:06] Directory: D:/PROJETOSGameMaker2/Arkanoid/sounds/snd_powerup2
+[26-08-2024 12:52:06] Checking snd_powerup1
+[26-08-2024 12:52:06] Directory: D:/PROJETOSGameMaker2/Arkanoid/sounds/snd_powerup1
+[26-08-2024 12:52:06] Checking snd_levelup
+[26-08-2024 12:52:06] Directory: D:/PROJETOSGameMaker2/Arkanoid/sounds/snd_levelup
+[26-08-2024 12:52:06] Checking snd_gameover
+[26-08-2024 12:52:06] Directory: D:/PROJETOSGameMaker2/Arkanoid/sounds/snd_gameover
+[26-08-2024 12:52:06] Checking snd_derrota
+[26-08-2024 12:52:06] Directory: D:/PROJETOSGameMaker2/Arkanoid/sounds/snd_derrota
+[26-08-2024 12:52:06] Checking snd_colisao
+[26-08-2024 12:52:06] Directory: D:/PROJETOSGameMaker2/Arkanoid/sounds/snd_colisao
+[26-08-2024 12:52:06] Current parent directory: D:/PROJETOSGameMaker2/Arkanoid/sounds/snd_colisao
+[26-08-2024 12:52:06] Checking snd_colisao.yy
+[26-08-2024 12:52:06] Parsing D:/PROJETOSGameMaker2/Arkanoid/sounds/snd_colisao/snd_colisao.yy
+[26-08-2024 12:52:06] Reading D:/PROJETOSGameMaker2/Arkanoid/sounds/snd_colisao/snd_colisao.yy
+[26-08-2024 12:52:06] Par: "folders/Sounds" at dir: "D:/PROJETOSGameMaker2/Arkanoid/sounds/snd_colisao/snd_colisao.yy"
+[26-08-2024 12:52:06] Found Sound: snd_colisao
+[26-08-2024 12:52:06] Checking snd_colisao.ogg
+[26-08-2024 12:52:06] Current parent directory: D:/PROJETOSGameMaker2/Arkanoid/sounds/snd_derrota
+[26-08-2024 12:52:06] Checking snd_derrota.yy
+[26-08-2024 12:52:06] Parsing D:/PROJETOSGameMaker2/Arkanoid/sounds/snd_derrota/snd_derrota.yy
+[26-08-2024 12:52:06] Reading D:/PROJETOSGameMaker2/Arkanoid/sounds/snd_derrota/snd_derrota.yy
+[26-08-2024 12:52:06] Par: "folders/Sounds" at dir: "D:/PROJETOSGameMaker2/Arkanoid/sounds/snd_derrota/snd_derrota.yy"
+[26-08-2024 12:52:06] Found Sound: snd_derrota
+[26-08-2024 12:52:06] Checking snd_derrota.ogg
+[26-08-2024 12:52:06] Current parent directory: D:/PROJETOSGameMaker2/Arkanoid/sounds/snd_gameover
+[26-08-2024 12:52:06] Checking snd_gameover.yy
+[26-08-2024 12:52:06] Parsing D:/PROJETOSGameMaker2/Arkanoid/sounds/snd_gameover/snd_gameover.yy
+[26-08-2024 12:52:06] Reading D:/PROJETOSGameMaker2/Arkanoid/sounds/snd_gameover/snd_gameover.yy
+[26-08-2024 12:52:06] Par: "folders/Sounds" at dir: "D:/PROJETOSGameMaker2/Arkanoid/sounds/snd_gameover/snd_gameover.yy"
+[26-08-2024 12:52:06] Found Sound: snd_gameover
+[26-08-2024 12:52:06] Checking snd_gameover.ogg
+[26-08-2024 12:52:06] Current parent directory: D:/PROJETOSGameMaker2/Arkanoid/sounds/snd_levelup
+[26-08-2024 12:52:06] Checking snd_levelup.yy
+[26-08-2024 12:52:06] Parsing D:/PROJETOSGameMaker2/Arkanoid/sounds/snd_levelup/snd_levelup.yy
+[26-08-2024 12:52:06] Reading D:/PROJETOSGameMaker2/Arkanoid/sounds/snd_levelup/snd_levelup.yy
+[26-08-2024 12:52:06] Par: "folders/Sounds" at dir: "D:/PROJETOSGameMaker2/Arkanoid/sounds/snd_levelup/snd_levelup.yy"
+[26-08-2024 12:52:06] Found Sound: snd_levelup
+[26-08-2024 12:52:06] Checking snd_levelup.ogg
+[26-08-2024 12:52:06] Current parent directory: D:/PROJETOSGameMaker2/Arkanoid/sounds/snd_powerup1
+[26-08-2024 12:52:06] Checking snd_powerup1.yy
+[26-08-2024 12:52:06] Parsing D:/PROJETOSGameMaker2/Arkanoid/sounds/snd_powerup1/snd_powerup1.yy
+[26-08-2024 12:52:06] Reading D:/PROJETOSGameMaker2/Arkanoid/sounds/snd_powerup1/snd_powerup1.yy
+[26-08-2024 12:52:06] Par: "folders/Sounds" at dir: "D:/PROJETOSGameMaker2/Arkanoid/sounds/snd_powerup1/snd_powerup1.yy"
+[26-08-2024 12:52:06] Found Sound: snd_powerup1
+[26-08-2024 12:52:06] Checking snd_powerup1.ogg
+[26-08-2024 12:52:06] Current parent directory: D:/PROJETOSGameMaker2/Arkanoid/sounds/snd_powerup2
+[26-08-2024 12:52:06] Checking snd_powerup2.yy
+[26-08-2024 12:52:06] Parsing D:/PROJETOSGameMaker2/Arkanoid/sounds/snd_powerup2/snd_powerup2.yy
+[26-08-2024 12:52:06] Reading D:/PROJETOSGameMaker2/Arkanoid/sounds/snd_powerup2/snd_powerup2.yy
+[26-08-2024 12:52:06] Par: "folders/Sounds" at dir: "D:/PROJETOSGameMaker2/Arkanoid/sounds/snd_powerup2/snd_powerup2.yy"
+[26-08-2024 12:52:06] Found Sound: snd_powerup2
+[26-08-2024 12:52:06] Checking snd_powerup2.ogg
+[26-08-2024 12:52:06] Current parent directory: D:/PROJETOSGameMaker2/Arkanoid/sounds/snd_tiro
+[26-08-2024 12:52:06] Checking snd_tiro.yy
+[26-08-2024 12:52:06] Parsing D:/PROJETOSGameMaker2/Arkanoid/sounds/snd_tiro/snd_tiro.yy
+[26-08-2024 12:52:06] Reading D:/PROJETOSGameMaker2/Arkanoid/sounds/snd_tiro/snd_tiro.yy
+[26-08-2024 12:52:06] Par: "folders/Sounds" at dir: "D:/PROJETOSGameMaker2/Arkanoid/sounds/snd_tiro/snd_tiro.yy"
+[26-08-2024 12:52:06] Found Sound: snd_tiro
+[26-08-2024 12:52:06] Checking snd_tiro.ogg
+[26-08-2024 12:52:06] Current parent directory: D:/PROJETOSGameMaker2/Arkanoid/sprites
+[26-08-2024 12:52:06] Checking Taco.png
+[26-08-2024 12:52:06] Checking spr_tiro
+[26-08-2024 12:52:06] Directory: D:/PROJETOSGameMaker2/Arkanoid/sprites/spr_tiro
+[26-08-2024 12:52:06] Checking spr_taco
+[26-08-2024 12:52:06] Directory: D:/PROJETOSGameMaker2/Arkanoid/sprites/spr_taco
+[26-08-2024 12:52:06] Checking spr_powerup
+[26-08-2024 12:52:06] Directory: D:/PROJETOSGameMaker2/Arkanoid/sprites/spr_powerup
+[26-08-2024 12:52:06] Checking spr_parede
+[26-08-2024 12:52:06] Directory: D:/PROJETOSGameMaker2/Arkanoid/sprites/spr_parede
+[26-08-2024 12:52:06] Checking spr_fundo
+[26-08-2024 12:52:06] Directory: D:/PROJETOSGameMaker2/Arkanoid/sprites/spr_fundo
+[26-08-2024 12:52:06] Checking spr_buraco
+[26-08-2024 12:52:06] Directory: D:/PROJETOSGameMaker2/Arkanoid/sprites/spr_buraco
+[26-08-2024 12:52:06] Checking spr_bola
+[26-08-2024 12:52:06] Directory: D:/PROJETOSGameMaker2/Arkanoid/sprites/spr_bola
+[26-08-2024 12:52:06] Checking spr_blocovermelho
+[26-08-2024 12:52:06] Directory: D:/PROJETOSGameMaker2/Arkanoid/sprites/spr_blocovermelho
+[26-08-2024 12:52:06] Checking spr_blocoverde
+[26-08-2024 12:52:06] Directory: D:/PROJETOSGameMaker2/Arkanoid/sprites/spr_blocoverde
+[26-08-2024 12:52:06] Checking spr_blocoroxo
+[26-08-2024 12:52:06] Directory: D:/PROJETOSGameMaker2/Arkanoid/sprites/spr_blocoroxo
+[26-08-2024 12:52:06] Checking spr_blococinza
+[26-08-2024 12:52:06] Directory: D:/PROJETOSGameMaker2/Arkanoid/sprites/spr_blococinza
+[26-08-2024 12:52:06] Checking spr_blocoazul
+[26-08-2024 12:52:06] Directory: D:/PROJETOSGameMaker2/Arkanoid/sprites/spr_blocoazul
+[26-08-2024 12:52:06] Checking spr_blocoamarelo
+[26-08-2024 12:52:06] Directory: D:/PROJETOSGameMaker2/Arkanoid/sprites/spr_blocoamarelo
+[26-08-2024 12:52:06] Checking BolaArkanoid.png
+[26-08-2024 12:52:06] Checking BlocoVermelho.png
+[26-08-2024 12:52:06] Checking BlocoVerde.png
+[26-08-2024 12:52:06] Checking BlocoRoxo.png
+[26-08-2024 12:52:06] Checking BlocoCinza.png
+[26-08-2024 12:52:06] Checking BlocoAzul.png
+[26-08-2024 12:52:06] Checking BlocoAmarelo.png
+[26-08-2024 12:52:06] Checking background.png
+[26-08-2024 12:52:06] Current parent directory: D:/PROJETOSGameMaker2/Arkanoid/sprites/spr_blocoamarelo
+[26-08-2024 12:52:06] Checking spr_blocoamarelo.yy
+[26-08-2024 12:52:06] Parsing D:/PROJETOSGameMaker2/Arkanoid/sprites/spr_blocoamarelo/spr_blocoamarelo.yy
+[26-08-2024 12:52:06] Reading D:/PROJETOSGameMaker2/Arkanoid/sprites/spr_blocoamarelo/spr_blocoamarelo.yy
+[26-08-2024 12:52:06] Par: "folders/Sprites" at dir: "D:/PROJETOSGameMaker2/Arkanoid/sprites/spr_blocoamarelo/spr_blocoamarelo.yy"
+[26-08-2024 12:52:06] Found Sprite: spr_blocoamarelo
+[26-08-2024 12:52:06] Checking layers
+[26-08-2024 12:52:06] Directory: D:/PROJETOSGameMaker2/Arkanoid/sprites/spr_blocoamarelo/layers
+[26-08-2024 12:52:06] Checking 11b60444-6a79-4b54-b402-18ebbe2b8e4d.png
+[26-08-2024 12:52:06] Current parent directory: D:/PROJETOSGameMaker2/Arkanoid/sprites/spr_blocoamarelo/layers
+[26-08-2024 12:52:06] Checking 11b60444-6a79-4b54-b402-18ebbe2b8e4d
+[26-08-2024 12:52:06] Directory: D:/PROJETOSGameMaker2/Arkanoid/sprites/spr_blocoamarelo/layers/11b60444-6a79-4b54-b402-18ebbe2b8e4d
+[26-08-2024 12:52:06] Current parent directory: D:/PROJETOSGameMaker2/Arkanoid/sprites/spr_blocoamarelo/layers/11b60444-6a79-4b54-b402-18ebbe2b8e4d
+[26-08-2024 12:52:06] Checking 3cb36d80-e5d5-4699-900a-77a0db67c002.png
+[26-08-2024 12:52:06] Current parent directory: D:/PROJETOSGameMaker2/Arkanoid/sprites/spr_blocoazul
+[26-08-2024 12:52:06] Checking spr_blocoazul.yy
+[26-08-2024 12:52:06] Parsing D:/PROJETOSGameMaker2/Arkanoid/sprites/spr_blocoazul/spr_blocoazul.yy
+[26-08-2024 12:52:06] Reading D:/PROJETOSGameMaker2/Arkanoid/sprites/spr_blocoazul/spr_blocoazul.yy
+[26-08-2024 12:52:06] Par: "folders/Sprites" at dir: "D:/PROJETOSGameMaker2/Arkanoid/sprites/spr_blocoazul/spr_blocoazul.yy"
+[26-08-2024 12:52:06] Found Sprite: spr_blocoazul
+[26-08-2024 12:52:06] Checking layers
+[26-08-2024 12:52:06] Directory: D:/PROJETOSGameMaker2/Arkanoid/sprites/spr_blocoazul/layers
+[26-08-2024 12:52:06] Checking 922420d5-f243-48c9-95df-10b456c1ef82.png
+[26-08-2024 12:52:06] Current parent directory: D:/PROJETOSGameMaker2/Arkanoid/sprites/spr_blocoazul/layers
+[26-08-2024 12:52:06] Checking 922420d5-f243-48c9-95df-10b456c1ef82
+[26-08-2024 12:52:06] Directory: D:/PROJETOSGameMaker2/Arkanoid/sprites/spr_blocoazul/layers/922420d5-f243-48c9-95df-10b456c1ef82
+[26-08-2024 12:52:06] Current parent directory: D:/PROJETOSGameMaker2/Arkanoid/sprites/spr_blocoazul/layers/922420d5-f243-48c9-95df-10b456c1ef82
+[26-08-2024 12:52:06] Checking 24f3375c-194c-452e-86be-5f1234121a0f.png
+[26-08-2024 12:52:06] Current parent directory: D:/PROJETOSGameMaker2/Arkanoid/sprites/spr_blococinza
+[26-08-2024 12:52:06] Checking spr_blococinza.yy
+[26-08-2024 12:52:06] Parsing D:/PROJETOSGameMaker2/Arkanoid/sprites/spr_blococinza/spr_blococinza.yy
+[26-08-2024 12:52:07] Reading D:/PROJETOSGameMaker2/Arkanoid/sprites/spr_blococinza/spr_blococinza.yy
+[26-08-2024 12:52:07] Par: "folders/Sprites" at dir: "D:/PROJETOSGameMaker2/Arkanoid/sprites/spr_blococinza/spr_blococinza.yy"
+[26-08-2024 12:52:07] Found Sprite: spr_blococinza
+[26-08-2024 12:52:07] Checking layers
+[26-08-2024 12:52:07] Directory: D:/PROJETOSGameMaker2/Arkanoid/sprites/spr_blococinza/layers
+[26-08-2024 12:52:07] Checking 34f0e400-8784-48d2-a712-3be480244a7c.png
+[26-08-2024 12:52:07] Current parent directory: D:/PROJETOSGameMaker2/Arkanoid/sprites/spr_blococinza/layers
+[26-08-2024 12:52:07] Checking 34f0e400-8784-48d2-a712-3be480244a7c
+[26-08-2024 12:52:07] Directory: D:/PROJETOSGameMaker2/Arkanoid/sprites/spr_blococinza/layers/34f0e400-8784-48d2-a712-3be480244a7c
+[26-08-2024 12:52:07] Current parent directory: D:/PROJETOSGameMaker2/Arkanoid/sprites/spr_blococinza/layers/34f0e400-8784-48d2-a712-3be480244a7c
+[26-08-2024 12:52:07] Checking 1149f762-1bb7-4ce3-a5ca-caedd9847c25.png
+[26-08-2024 12:52:07] Current parent directory: D:/PROJETOSGameMaker2/Arkanoid/sprites/spr_blocoroxo
+[26-08-2024 12:52:07] Checking spr_blocoroxo.yy
+[26-08-2024 12:52:07] Parsing D:/PROJETOSGameMaker2/Arkanoid/sprites/spr_blocoroxo/spr_blocoroxo.yy
+[26-08-2024 12:52:07] Reading D:/PROJETOSGameMaker2/Arkanoid/sprites/spr_blocoroxo/spr_blocoroxo.yy
+[26-08-2024 12:52:07] Par: "folders/Sprites" at dir: "D:/PROJETOSGameMaker2/Arkanoid/sprites/spr_blocoroxo/spr_blocoroxo.yy"
+[26-08-2024 12:52:07] Found Sprite: spr_blocoroxo
+[26-08-2024 12:52:07] Checking layers
+[26-08-2024 12:52:07] Directory: D:/PROJETOSGameMaker2/Arkanoid/sprites/spr_blocoroxo/layers
+[26-08-2024 12:52:07] Checking f70809b4-48c9-4e50-9ca1-1303e27fa213.png
+[26-08-2024 12:52:07] Current parent directory: D:/PROJETOSGameMaker2/Arkanoid/sprites/spr_blocoroxo/layers
+[26-08-2024 12:52:07] Checking f70809b4-48c9-4e50-9ca1-1303e27fa213
+[26-08-2024 12:52:07] Directory: D:/PROJETOSGameMaker2/Arkanoid/sprites/spr_blocoroxo/layers/f70809b4-48c9-4e50-9ca1-1303e27fa213
+[26-08-2024 12:52:07] Current parent directory: D:/PROJETOSGameMaker2/Arkanoid/sprites/spr_blocoroxo/layers/f70809b4-48c9-4e50-9ca1-1303e27fa213
+[26-08-2024 12:52:07] Checking 3a0f3ebf-de50-42dc-a101-c415acf158ca.png
+[26-08-2024 12:52:07] Current parent directory: D:/PROJETOSGameMaker2/Arkanoid/sprites/spr_blocoverde
+[26-08-2024 12:52:07] Checking spr_blocoverde.yy
+[26-08-2024 12:52:07] Parsing D:/PROJETOSGameMaker2/Arkanoid/sprites/spr_blocoverde/spr_blocoverde.yy
+[26-08-2024 12:52:07] Reading D:/PROJETOSGameMaker2/Arkanoid/sprites/spr_blocoverde/spr_blocoverde.yy
+[26-08-2024 12:52:07] Par: "folders/Sprites" at dir: "D:/PROJETOSGameMaker2/Arkanoid/sprites/spr_blocoverde/spr_blocoverde.yy"
+[26-08-2024 12:52:07] Found Sprite: spr_blocoverde
+[26-08-2024 12:52:07] Checking layers
+[26-08-2024 12:52:07] Directory: D:/PROJETOSGameMaker2/Arkanoid/sprites/spr_blocoverde/layers
+[26-08-2024 12:52:07] Checking dc037fac-b49e-4983-8bee-fe0a7b159774.png
+[26-08-2024 12:52:07] Current parent directory: D:/PROJETOSGameMaker2/Arkanoid/sprites/spr_blocoverde/layers
+[26-08-2024 12:52:07] Checking dc037fac-b49e-4983-8bee-fe0a7b159774
+[26-08-2024 12:52:07] Directory: D:/PROJETOSGameMaker2/Arkanoid/sprites/spr_blocoverde/layers/dc037fac-b49e-4983-8bee-fe0a7b159774
+[26-08-2024 12:52:07] Current parent directory: D:/PROJETOSGameMaker2/Arkanoid/sprites/spr_blocoverde/layers/dc037fac-b49e-4983-8bee-fe0a7b159774
+[26-08-2024 12:52:07] Checking e52b74dc-f614-410b-96d0-75f0861519ed.png
+[26-08-2024 12:52:07] Current parent directory: D:/PROJETOSGameMaker2/Arkanoid/sprites/spr_blocovermelho
+[26-08-2024 12:52:07] Checking spr_blocovermelho.yy
+[26-08-2024 12:52:07] Parsing D:/PROJETOSGameMaker2/Arkanoid/sprites/spr_blocovermelho/spr_blocovermelho.yy
+[26-08-2024 12:52:07] Reading D:/PROJETOSGameMaker2/Arkanoid/sprites/spr_blocovermelho/spr_blocovermelho.yy
+[26-08-2024 12:52:07] Par: "folders/Sprites" at dir: "D:/PROJETOSGameMaker2/Arkanoid/sprites/spr_blocovermelho/spr_blocovermelho.yy"
+[26-08-2024 12:52:07] Found Sprite: spr_blocovermelho
+[26-08-2024 12:52:07] Checking layers
+[26-08-2024 12:52:07] Directory: D:/PROJETOSGameMaker2/Arkanoid/sprites/spr_blocovermelho/layers
+[26-08-2024 12:52:07] Checking f7daa2a1-119d-460c-8ff2-7805fe25e9c6.png
+[26-08-2024 12:52:07] Current parent directory: D:/PROJETOSGameMaker2/Arkanoid/sprites/spr_blocovermelho/layers
+[26-08-2024 12:52:07] Checking f7daa2a1-119d-460c-8ff2-7805fe25e9c6
+[26-08-2024 12:52:07] Directory: D:/PROJETOSGameMaker2/Arkanoid/sprites/spr_blocovermelho/layers/f7daa2a1-119d-460c-8ff2-7805fe25e9c6
+[26-08-2024 12:52:07] Current parent directory: D:/PROJETOSGameMaker2/Arkanoid/sprites/spr_blocovermelho/layers/f7daa2a1-119d-460c-8ff2-7805fe25e9c6
+[26-08-2024 12:52:07] Checking 1803bad9-0536-4722-8916-115c37ac6739.png
+[26-08-2024 12:52:07] Current parent directory: D:/PROJETOSGameMaker2/Arkanoid/sprites/spr_bola
+[26-08-2024 12:52:07] Checking spr_bola.yy
+[26-08-2024 12:52:07] Parsing D:/PROJETOSGameMaker2/Arkanoid/sprites/spr_bola/spr_bola.yy
+[26-08-2024 12:52:07] Reading D:/PROJETOSGameMaker2/Arkanoid/sprites/spr_bola/spr_bola.yy
+[26-08-2024 12:52:07] Par: "folders/Sprites" at dir: "D:/PROJETOSGameMaker2/Arkanoid/sprites/spr_bola/spr_bola.yy"
+[26-08-2024 12:52:07] Found Sprite: spr_bola
+[26-08-2024 12:52:07] Checking layers
+[26-08-2024 12:52:07] Directory: D:/PROJETOSGameMaker2/Arkanoid/sprites/spr_bola/layers
+[26-08-2024 12:52:07] Checking dbfad075-dbd7-44e7-93af-d88ea94c0dda.png
+[26-08-2024 12:52:07] Current parent directory: D:/PROJETOSGameMaker2/Arkanoid/sprites/spr_bola/layers
+[26-08-2024 12:52:07] Checking dbfad075-dbd7-44e7-93af-d88ea94c0dda
+[26-08-2024 12:52:07] Directory: D:/PROJETOSGameMaker2/Arkanoid/sprites/spr_bola/layers/dbfad075-dbd7-44e7-93af-d88ea94c0dda
+[26-08-2024 12:52:07] Current parent directory: D:/PROJETOSGameMaker2/Arkanoid/sprites/spr_bola/layers/dbfad075-dbd7-44e7-93af-d88ea94c0dda
+[26-08-2024 12:52:07] Checking 678998d3-8e4d-4331-8b4a-b4bccb20b1cf.png
+[26-08-2024 12:52:07] Current parent directory: D:/PROJETOSGameMaker2/Arkanoid/sprites/spr_buraco
+[26-08-2024 12:52:07] Checking spr_buraco.yy
+[26-08-2024 12:52:07] Parsing D:/PROJETOSGameMaker2/Arkanoid/sprites/spr_buraco/spr_buraco.yy
+[26-08-2024 12:52:07] Reading D:/PROJETOSGameMaker2/Arkanoid/sprites/spr_buraco/spr_buraco.yy
+[26-08-2024 12:52:07] Par: "folders/Sprites" at dir: "D:/PROJETOSGameMaker2/Arkanoid/sprites/spr_buraco/spr_buraco.yy"
+[26-08-2024 12:52:07] Found Sprite: spr_buraco
+[26-08-2024 12:52:07] Checking layers
+[26-08-2024 12:52:07] Directory: D:/PROJETOSGameMaker2/Arkanoid/sprites/spr_buraco/layers
+[26-08-2024 12:52:07] Checking d5b066fb-b01b-4e90-9db9-8d9495be98df.png
+[26-08-2024 12:52:07] Current parent directory: D:/PROJETOSGameMaker2/Arkanoid/sprites/spr_buraco/layers
+[26-08-2024 12:52:07] Checking d5b066fb-b01b-4e90-9db9-8d9495be98df
+[26-08-2024 12:52:07] Directory: D:/PROJETOSGameMaker2/Arkanoid/sprites/spr_buraco/layers/d5b066fb-b01b-4e90-9db9-8d9495be98df
+[26-08-2024 12:52:07] Current parent directory: D:/PROJETOSGameMaker2/Arkanoid/sprites/spr_buraco/layers/d5b066fb-b01b-4e90-9db9-8d9495be98df
+[26-08-2024 12:52:07] Checking f604f90e-5576-4a1e-8991-58e00448b221.png
+[26-08-2024 12:52:07] Current parent directory: D:/PROJETOSGameMaker2/Arkanoid/sprites/spr_fundo
+[26-08-2024 12:52:07] Checking spr_fundo.yy
+[26-08-2024 12:52:07] Parsing D:/PROJETOSGameMaker2/Arkanoid/sprites/spr_fundo/spr_fundo.yy
+[26-08-2024 12:52:07] Reading D:/PROJETOSGameMaker2/Arkanoid/sprites/spr_fundo/spr_fundo.yy
+[26-08-2024 12:52:07] Par: "folders/Sprites" at dir: "D:/PROJETOSGameMaker2/Arkanoid/sprites/spr_fundo/spr_fundo.yy"
+[26-08-2024 12:52:07] Found Sprite: spr_fundo
+[26-08-2024 12:52:07] Checking layers
+[26-08-2024 12:52:07] Directory: D:/PROJETOSGameMaker2/Arkanoid/sprites/spr_fundo/layers
+[26-08-2024 12:52:07] Checking 6fac6c75-61a5-49d7-baf4-d35277bff0a2.png
+[26-08-2024 12:52:07] Current parent directory: D:/PROJETOSGameMaker2/Arkanoid/sprites/spr_fundo/layers
+[26-08-2024 12:52:07] Checking 6fac6c75-61a5-49d7-baf4-d35277bff0a2
+[26-08-2024 12:52:07] Directory: D:/PROJETOSGameMaker2/Arkanoid/sprites/spr_fundo/layers/6fac6c75-61a5-49d7-baf4-d35277bff0a2
+[26-08-2024 12:52:07] Current parent directory: D:/PROJETOSGameMaker2/Arkanoid/sprites/spr_fundo/layers/6fac6c75-61a5-49d7-baf4-d35277bff0a2
+[26-08-2024 12:52:07] Checking 3b004de5-b5e9-4081-b5ec-2148c5a710a9.png
+[26-08-2024 12:52:07] Current parent directory: D:/PROJETOSGameMaker2/Arkanoid/sprites/spr_parede
+[26-08-2024 12:52:07] Checking spr_parede.yy
+[26-08-2024 12:52:07] Parsing D:/PROJETOSGameMaker2/Arkanoid/sprites/spr_parede/spr_parede.yy
+[26-08-2024 12:52:07] Reading D:/PROJETOSGameMaker2/Arkanoid/sprites/spr_parede/spr_parede.yy
+[26-08-2024 12:52:07] Par: "folders/Sprites" at dir: "D:/PROJETOSGameMaker2/Arkanoid/sprites/spr_parede/spr_parede.yy"
+[26-08-2024 12:52:07] Found Sprite: spr_parede
+[26-08-2024 12:52:07] Checking layers
+[26-08-2024 12:52:07] Directory: D:/PROJETOSGameMaker2/Arkanoid/sprites/spr_parede/layers
+[26-08-2024 12:52:07] Checking 2bfe8601-48fa-4898-9f1b-763e10be10dd.png
+[26-08-2024 12:52:07] Current parent directory: D:/PROJETOSGameMaker2/Arkanoid/sprites/spr_parede/layers
+[26-08-2024 12:52:07] Checking 2bfe8601-48fa-4898-9f1b-763e10be10dd
+[26-08-2024 12:52:07] Directory: D:/PROJETOSGameMaker2/Arkanoid/sprites/spr_parede/layers/2bfe8601-48fa-4898-9f1b-763e10be10dd
+[26-08-2024 12:52:07] Current parent directory: D:/PROJETOSGameMaker2/Arkanoid/sprites/spr_parede/layers/2bfe8601-48fa-4898-9f1b-763e10be10dd
+[26-08-2024 12:52:07] Checking 3aeca760-a4fb-4955-93fb-a8b6cec87662.png
+[26-08-2024 12:52:07] Current parent directory: D:/PROJETOSGameMaker2/Arkanoid/sprites/spr_powerup
+[26-08-2024 12:52:07] Checking spr_powerup.yy
+[26-08-2024 12:52:07] Parsing D:/PROJETOSGameMaker2/Arkanoid/sprites/spr_powerup/spr_powerup.yy
+[26-08-2024 12:52:07] Reading D:/PROJETOSGameMaker2/Arkanoid/sprites/spr_powerup/spr_powerup.yy
+[26-08-2024 12:52:07] Par: "folders/Sprites" at dir: "D:/PROJETOSGameMaker2/Arkanoid/sprites/spr_powerup/spr_powerup.yy"
+[26-08-2024 12:52:07] Found Sprite: spr_powerup
+[26-08-2024 12:52:07] Checking layers
+[26-08-2024 12:52:07] Directory: D:/PROJETOSGameMaker2/Arkanoid/sprites/spr_powerup/layers
+[26-08-2024 12:52:07] Checking 852b92e6-aa58-453b-8f3e-cb3545218fb1.png
+[26-08-2024 12:52:07] Current parent directory: D:/PROJETOSGameMaker2/Arkanoid/sprites/spr_powerup/layers
+[26-08-2024 12:52:07] Checking 852b92e6-aa58-453b-8f3e-cb3545218fb1
+[26-08-2024 12:52:07] Directory: D:/PROJETOSGameMaker2/Arkanoid/sprites/spr_powerup/layers/852b92e6-aa58-453b-8f3e-cb3545218fb1
+[26-08-2024 12:52:07] Current parent directory: D:/PROJETOSGameMaker2/Arkanoid/sprites/spr_powerup/layers/852b92e6-aa58-453b-8f3e-cb3545218fb1
+[26-08-2024 12:52:07] Checking e1be1f34-4995-4eca-b541-c084e0a7102a.png
+[26-08-2024 12:52:07] Current parent directory: D:/PROJETOSGameMaker2/Arkanoid/sprites/spr_taco
+[26-08-2024 12:52:07] Checking spr_taco.yy
+[26-08-2024 12:52:07] Parsing D:/PROJETOSGameMaker2/Arkanoid/sprites/spr_taco/spr_taco.yy
+[26-08-2024 12:52:07] Reading D:/PROJETOSGameMaker2/Arkanoid/sprites/spr_taco/spr_taco.yy
+[26-08-2024 12:52:07] Par: "folders/Sprites" at dir: "D:/PROJETOSGameMaker2/Arkanoid/sprites/spr_taco/spr_taco.yy"
+[26-08-2024 12:52:07] Found Sprite: spr_taco
+[26-08-2024 12:52:07] Checking layers
+[26-08-2024 12:52:07] Directory: D:/PROJETOSGameMaker2/Arkanoid/sprites/spr_taco/layers
+[26-08-2024 12:52:07] Checking 99f7aea3-29d4-452c-8431-17457fe4cbf6.png
+[26-08-2024 12:52:07] Current parent directory: D:/PROJETOSGameMaker2/Arkanoid/sprites/spr_taco/layers
+[26-08-2024 12:52:07] Checking 99f7aea3-29d4-452c-8431-17457fe4cbf6
+[26-08-2024 12:52:07] Directory: D:/PROJETOSGameMaker2/Arkanoid/sprites/spr_taco/layers/99f7aea3-29d4-452c-8431-17457fe4cbf6
+[26-08-2024 12:52:07] Current parent directory: D:/PROJETOSGameMaker2/Arkanoid/sprites/spr_taco/layers/99f7aea3-29d4-452c-8431-17457fe4cbf6
+[26-08-2024 12:52:07] Checking 49a0181d-489f-46b4-ac4f-dff3a38a9c29.png
+[26-08-2024 12:52:07] Current parent directory: D:/PROJETOSGameMaker2/Arkanoid/sprites/spr_tiro
+[26-08-2024 12:52:07] Checking spr_tiro.yy
+[26-08-2024 12:52:07] Parsing D:/PROJETOSGameMaker2/Arkanoid/sprites/spr_tiro/spr_tiro.yy
+[26-08-2024 12:52:07] Reading D:/PROJETOSGameMaker2/Arkanoid/sprites/spr_tiro/spr_tiro.yy
+[26-08-2024 12:52:07] Par: "folders/Sprites" at dir: "D:/PROJETOSGameMaker2/Arkanoid/sprites/spr_tiro/spr_tiro.yy"
+[26-08-2024 12:52:07] Found Sprite: spr_tiro
+[26-08-2024 12:52:07] Checking layers
+[26-08-2024 12:52:07] Directory: D:/PROJETOSGameMaker2/Arkanoid/sprites/spr_tiro/layers
+[26-08-2024 12:52:07] Checking ca0e2078-aaca-49ea-8cc1-18d3bf8da3f5.png
+[26-08-2024 12:52:07] Current parent directory: D:/PROJETOSGameMaker2/Arkanoid/sprites/spr_tiro/layers
+[26-08-2024 12:52:07] Checking ca0e2078-aaca-49ea-8cc1-18d3bf8da3f5
+[26-08-2024 12:52:07] Directory: D:/PROJETOSGameMaker2/Arkanoid/sprites/spr_tiro/layers/ca0e2078-aaca-49ea-8cc1-18d3bf8da3f5
+[26-08-2024 12:52:07] Current parent directory: D:/PROJETOSGameMaker2/Arkanoid/sprites/spr_tiro/layers/ca0e2078-aaca-49ea-8cc1-18d3bf8da3f5
+[26-08-2024 12:52:07] Checking 1c4d1e56-35d6-4b3f-b0c7-6a42245b58f4.png
+[26-08-2024 12:52:07] Current parent directory: D:/PROJETOSGameMaker2/Arkanoid/tilesets
+[26-08-2024 12:52:07] Current parent directory: D:/PROJETOSGameMaker2/Arkanoid/timelines
+[26-08-2024 12:52:07] Moving files to trash...
+[26-08-2024 12:52:07] Files yeeted successfully!
+[26-08-2024 12:52:07] Generating YYP...
+[26-08-2024 12:52:07] Arkanoid.yyp created successfully!
